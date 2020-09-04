@@ -70,6 +70,3 @@ How to Use/Setup ?
        6. Click the Install Button
        
 
-Get the VulnerableSpring Project from here:
-https://github.com/CSPF-Founder/VulnerableSpring
-
